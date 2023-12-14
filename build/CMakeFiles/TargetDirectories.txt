@@ -1,0 +1,13 @@
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/CMakeFiles/main.exe.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/CMakeFiles/Test.exe.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/CMakeFiles/test.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/CMakeFiles/edit_cache.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/CMakeFiles/rebuild_cache.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/my_dir/CMakeFiles/Prob.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/my_dir/CMakeFiles/Equa.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/my_dir/CMakeFiles/Imesh.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/my_dir/CMakeFiles/VAR.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/my_dir/CMakeFiles/TIME.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/my_dir/CMakeFiles/test.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/my_dir/CMakeFiles/edit_cache.dir
+/Users/nanki/Desktop/2023-2024hpc/c++stu/build/my_dir/CMakeFiles/rebuild_cache.dir

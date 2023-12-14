@@ -1,0 +1,111 @@
+Start testing: Nov 20 15:43 CET
+----------------------------------------------------------
+1/4 Testing: UnitaryTest.MeshTest
+1/4 Test: UnitaryTest.MeshTest
+Command: "/Users/nanki/Desktop/2023-2024hpc/Programmation Orientée Objet/td2.n/build/Test.exe" "--gtest_filter=UnitaryTest.MeshTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/nanki/Desktop/2023-2024hpc/Programmation Orientée Objet/td2.n/build
+"UnitaryTest.MeshTest" start time: Nov 20 15:43 CET
+Output:
+----------------------------------------------------------
+Running main() from /Users/nanki/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = UnitaryTest.MeshTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnitaryTest
+[ RUN      ] UnitaryTest.MeshTest
+[       OK ] UnitaryTest.MeshTest (0 ms)
+[----------] 1 test from UnitaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"UnitaryTest.MeshTest" end time: Nov 20 15:43 CET
+"UnitaryTest.MeshTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: UnitaryTest.ProblemTest
+2/4 Test: UnitaryTest.ProblemTest
+Command: "/Users/nanki/Desktop/2023-2024hpc/Programmation Orientée Objet/td2.n/build/Test.exe" "--gtest_filter=UnitaryTest.ProblemTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/nanki/Desktop/2023-2024hpc/Programmation Orientée Objet/td2.n/build
+"UnitaryTest.ProblemTest" start time: Nov 20 15:43 CET
+Output:
+----------------------------------------------------------
+Running main() from /Users/nanki/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = UnitaryTest.ProblemTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnitaryTest
+[ RUN      ] UnitaryTest.ProblemTest
+--- Solve problem ---
+--- compute equation at time : 0---
+-- at x_i=0
+-- at x_i=2
+-- at x_i=4
+--- compute equation at time : 0.5---
+-- at x_i=0
+-- at x_i=2
+-- at x_i=4
+[       OK ] UnitaryTest.ProblemTest (0 ms)
+[----------] 1 test from UnitaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"UnitaryTest.ProblemTest" end time: Nov 20 15:43 CET
+"UnitaryTest.ProblemTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: MainFunctionTest.EquationTest
+3/4 Test: MainFunctionTest.EquationTest
+Command: "/Users/nanki/Desktop/2023-2024hpc/Programmation Orientée Objet/td2.n/build/Test.exe" "--gtest_filter=MainFunctionTest.EquationTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/nanki/Desktop/2023-2024hpc/Programmation Orientée Objet/td2.n/build
+"MainFunctionTest.EquationTest" start time: Nov 20 15:43 CET
+Output:
+----------------------------------------------------------
+Running main() from /Users/nanki/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = MainFunctionTest.EquationTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainFunctionTest
+[ RUN      ] MainFunctionTest.EquationTest
+-- at x_i=0
+-- at x_i=2
+-- at x_i=4
+[       OK ] MainFunctionTest.EquationTest (0 ms)
+[----------] 1 test from MainFunctionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MainFunctionTest.EquationTest" end time: Nov 20 15:43 CET
+"MainFunctionTest.EquationTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: main_test
+4/4 Test: main_test
+Command: "/Users/nanki/Desktop/2023-2024hpc/Programmation Orientée Objet/td2.n/build/main.exe"
+Directory: /Users/nanki/Desktop/2023-2024hpc/Programmation Orientée Objet/td2.n/build
+"main_test" start time: Nov 20 15:43 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Failed.
+"main_test" end time: Nov 20 15:43 CET
+"main_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 20 15:43 CET

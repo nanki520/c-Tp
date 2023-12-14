@@ -1,0 +1,5 @@
+if(EXISTS "/Users/nanki/Desktop/2023-2024hpc/c++stu/build/Test.exe[1]_tests.cmake")
+  include("/Users/nanki/Desktop/2023-2024hpc/c++stu/build/Test.exe[1]_tests.cmake")
+else()
+  add_test(Test.exe_NOT_BUILT Test.exe_NOT_BUILT)
+endif()

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+add_library(Prob problem.cpp)
+add_library(Equa equation.cpp)
+add_library(Imesh imesh.cpp)
+add_library(VAR variable.cpp)
+add_library(TIME timer.cpp)
